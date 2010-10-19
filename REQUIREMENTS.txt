@@ -1,0 +1,6 @@
+Requirements
+------------
+
+- Java 6
+- maven
+

@@ -1,0 +1,2 @@
+#!/bin/sh
+java -jar ${fise-code:location}/fise/launchers/sling/target/eu.iksproject.fise.launchers.sling-*-SNAPSHOT.jar
