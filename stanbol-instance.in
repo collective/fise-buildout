@@ -1,0 +1,2 @@
+#!/bin/sh
+${stanbol-option:java-bin} -jar "${stanbol-download:location}/${stanbol-download:filename}" -p ${stanbol-option:port}
